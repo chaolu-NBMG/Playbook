@@ -8,5 +8,23 @@ url: https://chaolu-nbmg.github.io/Playbook/
 aux_links:
   Geothermal Playbook Repository: https://github.com/chaolu-NBMG/Playbook
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 plugins:
   - jekyll-last-modified-at
+
