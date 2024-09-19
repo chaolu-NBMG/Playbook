@@ -7,3 +7,6 @@ url: https://chaolu-nbmg.github.io/Playbook/
 
 aux_links:
   Geothermal Playbook Repository: https://github.com/chaolu-NBMG/Playbook
+
+plugins:
+  - jekyll-last-modified-at
